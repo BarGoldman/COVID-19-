@@ -14,6 +14,8 @@ This project uses SQL to analyze the COVID-19 dataset. The purpose of the projec
 ## Database:
 Using the collection of COVID-19 data maintained by [Our World in Data.](https://ourworldindata.org/coronavirus)
 
+Link to Dataset: https://ourworldindata.org/covid-deaths
+
 ## Covid-19 Deahbord:
 ![Dashboard 1 (1)](https://github.com/user-attachments/assets/d05b45c4-8681-455b-8142-317eb050f836)
 https://public.tableau.com/shared/3K7QN5HDB?:display_count=n&:origin=viz_share_link
