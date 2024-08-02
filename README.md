@@ -10,7 +10,7 @@
 
 ## Description:
 This project uses SQL to analyze the COVID-19 dataset.
-The goal of the project is to answer a set of questions about the coronavirus.
+The goal of the project is to answer questions and analyze information about the mortality rates of the coronavirus.
 
 ## Database:
 Using the collection of COVID-19 data maintained by [Our World in Data.](https://ourworldindata.org/coronavirus)
